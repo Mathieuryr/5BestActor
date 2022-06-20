@@ -1,14 +1,11 @@
 *
 {
-
 	margin: 0;
 	padding: 0;
-
 }
 
 ul,ol
 {
-
 	list-style: none;
 }
 
@@ -20,7 +17,6 @@ body
 
 header
 {
-
 	padding: 30px 0;
 }
 
@@ -183,33 +179,3 @@ header h1
 	border: 2px solid #333;
 	font-size: 24px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
